@@ -77,7 +77,7 @@ Built using **MediaPipe Hands**, **Canvas API**, and **Web Audio API**, the syst
 Neon-Aura-AR/
 │
 ├── index.html        # Main application
-├── architecture.png # System diagram
+├── architecture.png  # System diagram
 └── README.md
 ```
 
