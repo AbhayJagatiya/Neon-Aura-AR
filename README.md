@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 🧠 Overview
 
 **Neon Aura AR** is a browser-based interactive AR experience that uses real-time hand tracking to generate dynamic visual and audio effects.
@@ -18,6 +19,18 @@ Built using **MediaPipe Hands**, **Canvas API**, and **Web Audio API**, the syst
 
 <p align="center">
   <img src="./architecture.png" width="100%" alt="Architecture Diagram">
+</p>
+
+---
+
+---
+
+## 🌐 Live Demo
+
+<p align="center">
+  <a href="https://abhayjagatiya.github.io/Neon-Aura-AR/" target="_blank">
+    🚀 Click Here to Experience Live
+  </a>
 </p>
 
 ---
